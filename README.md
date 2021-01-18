@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm Umur, Fullstack developer from Denizli, Turkey.
+I'm Umur, fullstack developer from Denizli, Turkey.
