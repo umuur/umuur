@@ -1,3 +1,3 @@
-### Hi there 👋
+# Hi everyone :wave:
 
-I'm Umur, fullstack developer from Denizli, Turkey.
+I'm a software engineer from Turkey, building amazing stuff with @[CenterHealth](https://center.health/).
